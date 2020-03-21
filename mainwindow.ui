@@ -121,10 +121,11 @@
      </font>
     </property>
     <property name="plainText">
-     <string>12345678901234567890
-....................
-aaaaaaaaaaaaaaaaaaaa
-xxxxxxxxxxxxxxxxxxxx</string>
+     <string>Status:Running BLE:X
+||||||||------------
+Breath rate:   10bpm
+Duty cycle:      1:1
+</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton">
@@ -150,7 +151,7 @@ xxxxxxxxxxxxxxxxxxxx</string>
      </rect>
     </property>
     <property name="text">
-     <string>Escape</string>
+     <string>Function</string>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButton_3">
