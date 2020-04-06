@@ -1,4 +1,12 @@
 # VentSim
+
+```diff
+- THIS PROJECT WAS MOVED TO CSSALT Open Ventilator, link as following:
+```
+
+[Click here to go to: CSSALT Open Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
+
+
 The VentSim purpose is to focus on UI and high level control of the Ventilator. Some particular files will be port to the real Ventilator project and others emulates the native Arduino libraries.
 
 ## Project concept
